@@ -1,22 +1,24 @@
-"results": [
+{
+  "results": [
     {
-      "name":'Wikipedia',
-      "url": 'https://en.wikipedia.org/wiki/Main_Page'
-      "category": 'Information'
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "category": "Information"
     },
     {
-      "name":'Sport',
-      "url": 'https://www.sport.es/es/'
-      "category": 'News'
+      "name": "Sport",
+      "url": "https://www.sport.es/es/",
+      "category": "News"
     },
     {
-      "name":'ElMundoDeportivo',
-      "url": 'https://www.mundodeportivo.com/'
-      "category": 'News'
+      "name": "ElMundoDeportivo",
+      "url": "https://www.mundodeportivo.com/",
+      "category": "News"
     },
     {
-      "name":'IltaSanomat',
-      "url": 'https://www.is.fi/'
-      "category": 'News'
-    },
-]
+      "name": "IltaSanomat",
+      "url": "https://www.is.fi/",
+      "category": "News"
+    }
+  ]
+}
