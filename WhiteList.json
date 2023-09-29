@@ -2,22 +2,22 @@
   "results": [
     {
       "name": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Main_Page",
+      "url": "wikipedia.org",
       "category": "Information"
     },
     {
       "name": "Sport",
-      "url": "https://www.sport.es/es/",
+      "url": "www.sport.es",
       "category": "News"
     },
     {
       "name": "ElMundoDeportivo",
-      "url": "https://www.mundodeportivo.com/",
+      "url": "www.mundodeportivo.com",
       "category": "News"
     },
     {
       "name": "IltaSanomat",
-      "url": "https://www.is.fi/",
+      "url": "www.is.fi",
       "category": "News"
     }
   ]
