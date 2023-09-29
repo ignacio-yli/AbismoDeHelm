@@ -19,6 +19,11 @@
       "name": "IltaSanomat",
       "url": "www.is.fi",
       "category": "News"
+    },
+    {
+      "name": "Abc",
+      "url": "www.Abc.es",
+      "category": "News"
     }
   ]
 }
