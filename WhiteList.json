@@ -24,6 +24,11 @@
       "name": "Abc",
       "url": "www.Abc.es",
       "category": "News"
+    },
+    {
+      "name": "Alatin",
+      "url": "www.Alatin.it",
+      "category": "Information"
     }
   ]
 }
