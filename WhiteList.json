@@ -29,6 +29,11 @@
       "name": "Alatin",
       "url": "www.Alatin.it",
       "category": "Information"
+    },
+    {
+      "name": "Marca",
+      "url": "www.Marca.com",
+      "category": "Information"
     }
   ]
 }
