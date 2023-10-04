@@ -2,38 +2,45 @@
   "results": [
     {
       "name": "Wikipedia",
-      "url": "wikipedia.org",
+      "domain": "wikipedia.org",
+      "url": "https://www.wikipedia.org/",
       "category": "Information"
     },
     {
       "name": "Sport",
+      "domain": "sport.es",
       "url": "www.sport.es",
       "category": "News"
     },
     {
       "name": "ElMundoDeportivo",
+      "domain": "mundodeportivo.com",
       "url": "www.mundodeportivo.com",
       "category": "News"
     },
     {
       "name": "IltaSanomat",
+      "domain": "is.fi",
       "url": "www.is.fi",
       "category": "News"
     },
     {
       "name": "Abc",
+      "domain": "abc.es",
       "url": "www.Abc.es",
       "category": "News"
     },
     {
       "name": "Alatin",
+      "domain": "alatin.it",
       "url": "https://app.alatin.it/login",
       "category": "Information"
     },
     {
       "name": "Marca",
+      "domain": "marca.com",
       "url": "www.Marca.com",
-      "category": "Information"
+      "category": "News"
     }
   ]
 }
