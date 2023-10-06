@@ -19,12 +19,6 @@
       "category": "News"
     },
     {
-      "name": "IltaSanomat",
-      "domain": "is.fi",
-      "url": "www.is.fi",
-      "category": "News"
-    },
-    {
       "name": "Abc",
       "domain": "abc.es",
       "url": "www.Abc.es",
@@ -37,10 +31,28 @@
       "category": "Information"
     },
     {
-      "name": "Marca",
-      "domain": "marca.com",
-      "url": "www.Marca.com",
-      "category": "News"
+      "name": "Ordo Katolinen",
+      "domain": "katolinen.fi",
+      "url": "https://katolinen.fi/messun-lukukappaleet/lukukappaleet-hiippakunnan-ordosta/",
+      "category": "Prayers"
+    },
+    {
+      "name": "Apple TV",
+      "domain": "tv.apple.com",
+      "url": "https://tv.apple.com/fi",
+      "category": "Entertaiment"
+    },
+    {
+      "name": "Comm. Rosini",
+      "domain": "vaticannews.va",
+      "url": "https://www.vaticannews.va/it/podcast/archivio-commento-al-vangelo-don-fabio-rosini.html",
+      "category": "Prayers"
+    },
+    {
+      "name": "Padel Nallikari",
+      "domain": "nallisport.cintoia.com",
+      "url": "https://nallisport.cintoia.com/",
+      "category": "Sport"
     }
   ]
 }
